@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">팝업 매니저</string>
+
+    <string name="clock_visible">시계 표시</string>
+    <string name="blue_light_filter">블루라이트 필터</string>
+</resources>
